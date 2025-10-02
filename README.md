@@ -23,7 +23,9 @@
 
 <br clear="left"/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ksmith18skc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksmith18skc&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
