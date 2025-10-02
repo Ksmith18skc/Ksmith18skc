@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Kory Smith
+# A passionate Computer Science Student at the University of Arizona
 
 - 🔭 I’m currently working on [Smittys Poker Club]([url](https://poker.korymsmith.dev/login))
+- 👨‍💻 Personal website and projects available at https://korymsmith.dev
 - 📫 How to reach me: Soccerfanskc@gmail.com || Korysmith@arizona.edu
 - 😄 Pronouns: He/Him
 
