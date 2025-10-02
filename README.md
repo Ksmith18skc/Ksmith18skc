@@ -8,7 +8,7 @@
 
 # Connect with me:
 
-[<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]([https://en.cppreference.com/w/c](https://www.linkedin.com/in/korymsmith/))
+[<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]([https://www.linkedin.com/in/korymsmith/])
 <br>
 # Languages and Tools:
 
