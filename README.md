@@ -5,9 +5,9 @@
 - 😄 Pronouns: He/Him
 
 Connect with me:
+[<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]([https://en.cppreference.com/w/c](https://www.linkedin.com/in/korymsmith/))
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/korymsmith/
-)
+Languages and Tools:
 
 [<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />](https://en.cppreference.com/w/c)
 [<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
@@ -23,8 +23,6 @@ Connect with me:
 <br clear="left"/>
 
 
-Languages and Tools:
-https://www.cprogramming.com/ https://www.w3schools.com/cpp/
 <!--
 **Ksmith18skc/Ksmith18skc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
