@@ -22,8 +22,7 @@
 [<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/)
 [<img align="left" alt="Reactjs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactjs.org/)
 [<img align="left" alt="ReactNative" width="40px" src="https://camo.githubusercontent.com/44059541e82482d15a51d37935c0fb6b684a9b00226739491be20bbc72c3f59d/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" />](https://reactnative.dev/)
-[<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original-wordmark.svg
-" />](https://www.docker.com/)
+[<img align="left" alt="Docker" width="40px" src="https://blog.nashtechglobal.com/wp-content/uploads/2024/09/Docker.logo2_.png" />](https://www.docker.com/)
 
 <br clear="left"/>
 
