@@ -23,6 +23,8 @@
 
 <br clear="left"/>
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ksmith18skc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Ksmith18skc/Ksmith18skc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
