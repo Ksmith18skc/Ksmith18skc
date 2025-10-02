@@ -5,7 +5,9 @@
 - 😄 Pronouns: He/Him
 
 Connect with me:
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/korymsmith/
+))
+
 https://www.linkedin.com/in/korymsmith/
 
 Languages and Tools:
