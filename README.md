@@ -5,8 +5,9 @@
 - 😄 Pronouns: He/Him
 
 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/korymsmith/
-))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korymsmith/
+)
 
 https://www.linkedin.com/in/korymsmith/
 
