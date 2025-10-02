@@ -4,7 +4,8 @@
 - 📫 How to reach me: Soccerfanskc@gmail.com || Korysmith@arizona.edu
 - 😄 Pronouns: He/Him
 
-Connect with me:
+# Connect with me:
+
 [<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />]([https://en.cppreference.com/w/c](https://www.linkedin.com/in/korymsmith/))
 
 Languages and Tools:
