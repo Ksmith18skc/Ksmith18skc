@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Kory Smith
-# A passionate Computer Science Student at the University of Arizona
+# A passionate Software Engineer and CS Student at the University of Arizona
 
 - 🔭 I’m currently working on [Smittys Poker Club]([url](https://poker.korymsmith.dev/login))
 - 🌱 I’m currently learning about Nueral Networks
